@@ -1,0 +1,45 @@
+﻿<Window x:Class="IW5_proj1_GUI.NewCustomerWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="New Customer" 
+        ResizeMode="NoResize"
+        Height="360" Width="400">
+    <Grid>
+        <Label Name="labelName" Content="Name" HorizontalAlignment="Left"  Margin="52,0,0,277" VerticalAlignment="Bottom"/>
+        <Label Name="labelSurName" Content="Surname" HorizontalAlignment="Left"  Margin="37,0,0,247" VerticalAlignment="Bottom"/>
+        <Label Name="labelSex" Content="Sex" HorizontalAlignment="Left"  Margin="66,0,0,216" VerticalAlignment="Bottom"/>
+        <Label Name="labelAge" Content="Age" HorizontalAlignment="Left"  Margin="63,0,0,187" VerticalAlignment="Bottom" RenderTransformOrigin="2.505,0.837"/>
+        <Label Name="labelStreet" Content="Street" HorizontalAlignment="Left"  Margin="52,0,0,156" VerticalAlignment="Bottom"/>
+        <Label Name="labelCity" Content="City" HorizontalAlignment="Left"  Margin="64,0,0,127" VerticalAlignment="Bottom"/>
+        <Label Name="labelZipcode" Content="Zipcode" HorizontalAlignment="Left"  Margin="41,0,0,98" VerticalAlignment="Bottom"/>
+        <Label Name="labelCountry" Content="Country" HorizontalAlignment="Left"  Margin="42,0,0,67" VerticalAlignment="Bottom"/>
+
+        <!-- Add new customer section -->
+        <TextBox Height="25" HorizontalAlignment="Left" Margin="99,0,0,277" Name="txtBoxAddName" VerticalAlignment="Bottom" Width="150" TextChanged="validateName"/>
+        <TextBox Height="25" HorizontalAlignment="Left" Margin="99,0,0,247" Name="txtBoxAddSurName" VerticalAlignment="Bottom" Width="150" TextChanged="validateSurName"/>
+        <ComboBox Width="150" Height="25" Margin="99,0,0,216" Name="comboBoxAddSex" VerticalAlignment="Bottom" HorizontalAlignment="Left" SelectedIndex="0">
+            <ComboBoxItem Content="Male" Name="comboBoxMale" />
+            <ComboBoxItem Content="Female" Name="comboBoxFemale" />
+        </ComboBox>
+        <TextBox Height="25" HorizontalAlignment="Left" Margin="99,0,0,187" Name="txtBoxAddAge" VerticalAlignment="Bottom" Width="150" TextChanged="validateAge" />
+        <TextBox Height="25" HorizontalAlignment="Left" Margin="99,0,0,157" Name="txtBoxAddStreet" VerticalAlignment="Bottom" Width="150" TextChanged="validateStreet"/>
+        <TextBox Height="25" HorizontalAlignment="Left" Margin="99,0,0,127" Name="txtBoxAddCity" VerticalAlignment="Bottom" Width="150" TextChanged="validateCity"/>
+        <TextBox Height="25" HorizontalAlignment="Left" Margin="99,0,0,97" Name="txtBoxAddZipcode" VerticalAlignment="Bottom" Width="150" TextChanged="validateZipcode"/>
+        <TextBox Height="25" HorizontalAlignment="Left" Margin="99,0,0,67" Name="txtBoxAddCountry" VerticalAlignment="Bottom" Width="150" TextChanged="validateCountry"/>
+
+        <!-- Buttons -->
+        <Button Content="Add" Name="AddButton" HorizontalAlignment="Left" Margin="99,268,0,0" VerticalAlignment="Top" Width="70" Click="AddButton_Click"/>
+        <Button Content="Clear" Name="ClearButton" HorizontalAlignment="Left" Margin="179,268,0,0" VerticalAlignment="Top" Width="70" Click="ClearButton_Click"/>
+        
+        <!-- Textbox validation labels -->
+        <Label Name="NameValidationLabel" Content="Wrong data format!" HorizontalAlignment="Left" VerticalAlignment="Bottom" Margin="254,17,0,277" Visibility="Hidden" Foreground="Red"/>
+        <Label Name="SurnameValidationLabel" Content="Wrong data format!" HorizontalAlignment="Left" VerticalAlignment="Bottom" Margin="254,17,0,247" Visibility="Hidden" Foreground="Red"/>
+        <Label Name="AgeValidationLabel" Content="Wrong data format!" HorizontalAlignment="Left" VerticalAlignment="Bottom" Margin="254,17,0,187" Visibility="Hidden" Foreground="Red"/>
+        <Label Name="StreetValidationLabel" Content="Wrong data format!" HorizontalAlignment="Left" VerticalAlignment="Bottom" Margin="254,17,0,157" Visibility="Hidden" Foreground="Red"/>
+        <Label Name="CityValidationLabel" Content="Wrong data format!" HorizontalAlignment="Left" VerticalAlignment="Bottom" Margin="254,17,0,127" Visibility="Hidden" Foreground="Red"/>
+        <Label Name="ZipcodeValidationLabel" Content="Wrong data format!" HorizontalAlignment="Left" VerticalAlignment="Bottom" Margin="254,17,0,97" Visibility="Hidden" Foreground="Red"/>
+        <Label Name="CountryValidationLabel" Content="Wrong data format!" HorizontalAlignment="Left" VerticalAlignment="Bottom" Margin="254,17,0,67" Visibility="Hidden" Foreground="Red"/>
+        
+        
+    </Grid>
+</Window>

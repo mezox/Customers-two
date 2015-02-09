@@ -1,0 +1,22 @@
+﻿<Window x:Class="IW5_proj1_GUI.EditContact"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="EditContact" Height="200" Width="350">
+    
+    <Grid>
+        <Button Name="btnEditEmail" Content="Edit" HorizontalAlignment="Left" Margin="70,116,0,0" VerticalAlignment="Top" Width="70" Click="btnEditEmail_Click"/>
+        <Button Name="btnClear" Content="Clear" HorizontalAlignment="Left" Margin="150,116,0,0" VerticalAlignment="Top" Width="70" Click="ClearButton_Click"/>
+
+        <!-- Textboxes -->
+        <TextBox Name="txtBoxEditEmail" HorizontalAlignment="Left" Height="23" Margin="70,21,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="150" TextChanged="validateEmail"/>
+        <TextBox Name="txtBoxEditPhone" HorizontalAlignment="Left" Height="23" Margin="70,49,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="150" TextChanged="validatePhone"/>
+
+        <!-- Labels-->
+        <Label Content="E-mail" HorizontalAlignment="Left" Margin="23,18,0,0" VerticalAlignment="Top"/>
+        <Label Content="Phone" HorizontalAlignment="Left" Margin="23,47,0,0" VerticalAlignment="Top"/>
+
+        <Label Name="EmailValidationLabel" Content="Wrong data format!" HorizontalAlignment="Left" VerticalAlignment="Bottom" Visibility="Hidden" Foreground="Red" Margin="225,0,0,122"/>
+        <Label Name="PhoneValidationLabel" Content="Wrong data format!" HorizontalAlignment="Left" VerticalAlignment="Bottom" Visibility="Hidden" Foreground="Red" Margin="225,0,0,94"/>
+
+    </Grid>
+</Window>

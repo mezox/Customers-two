@@ -1,0 +1,33 @@
+﻿<Window x:Class="IW5_proj1_GUI.NewContact"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="NewContact" Height="200" Width="350">
+    <Grid>
+        <Button Name="btnAddEmail" Content="Add" HorizontalAlignment="Left" Margin="70,116,0,0" VerticalAlignment="Top" Width="70" Click="btnAddContact_Click"/>
+        <Button Name="btnClear" Content="Clear" HorizontalAlignment="Left" Margin="150,116,0,0" VerticalAlignment="Top" Width="70"/>
+
+        <!-- Textboxes -->
+        <TextBox Name="txtBoxAddEmail" HorizontalAlignment="Left" Height="23" Margin="70,21,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="150" TextChanged="validateEmail"/>
+        <TextBox Name="txtBoxAddPhone" HorizontalAlignment="Left" Height="23" Margin="70,49,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="150" TextChanged="validatePhone"/>
+
+        <!-- Labels-->
+        <Label Content="E-mail" HorizontalAlignment="Left" Margin="23,18,0,0" VerticalAlignment="Top"/>
+        <Label Content="Phone" HorizontalAlignment="Left" Margin="23,47,0,0" VerticalAlignment="Top"/>
+        <Label Content="Customer" HorizontalAlignment="Left" Margin="4,74,0,0" VerticalAlignment="Top"/>
+
+        <Label Name="EmailValidationLabel" Content="Wrong data format!" HorizontalAlignment="Left" VerticalAlignment="Bottom" Visibility="Hidden" Foreground="Red" Margin="225,0,0,122"/>
+        <Label Name="PhoneValidationLabel" Content="Wrong data format!" HorizontalAlignment="Left" VerticalAlignment="Bottom" Visibility="Hidden" Foreground="Red" Margin="225,0,0,94"/>
+
+        <ComboBox Name="CustomerComboBox" HorizontalAlignment="Left" VerticalAlignment="Top" Width="150" Margin="70,77,0,0">
+            <ComboBox.ItemTemplate>
+                <DataTemplate>
+                    <TextBlock>
+                        <Run Text="{Binding Name}" />
+                        <Run Text="{Binding Surname}" />
+                    </TextBlock>
+                </DataTemplate>
+            </ComboBox.ItemTemplate>
+        </ComboBox>
+
+    </Grid>
+</Window>

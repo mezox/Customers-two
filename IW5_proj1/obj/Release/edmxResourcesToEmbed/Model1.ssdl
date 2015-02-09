@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="customersModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Contact">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Email" Type="nvarchar" MaxLength="40" />
+    <Property Name="Phone" Type="nvarchar" MaxLength="20" />
+    <Property Name="CustomerId" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Person">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Name" Type="nvarchar" MaxLength="20" Nullable="false" />
+    <Property Name="Surname" Type="nvarchar" MaxLength="20" Nullable="false" />
+    <Property Name="Sex" Type="nvarchar" MaxLength="1" Nullable="false" />
+    <Property Name="Age" Type="int" Nullable="false" />
+    <Property Name="Street" Type="nvarchar" MaxLength="40" Nullable="false" />
+    <Property Name="City" Type="nvarchar" MaxLength="20" Nullable="false" />
+    <Property Name="Zipcode" Type="nvarchar" MaxLength="5" Nullable="false" />
+    <Property Name="Country" Type="nvarchar" MaxLength="20" Nullable="false" />
+  </EntityType>
+  <Association Name="FK_Contact_Person">
+    <End Role="Person" Type="Self.Person" Multiplicity="1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Role="Contact" Type="Self.Contact" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Person">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Contact">
+        <PropertyRef Name="CustomerId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="customersModelStoreContainer">
+    <EntitySet Name="Contact" EntityType="Self.Contact" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Person" EntityType="Self.Person" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_Contact_Person" Association="Self.FK_Contact_Person">
+      <End Role="Person" EntitySet="Person" />
+      <End Role="Contact" EntitySet="Contact" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

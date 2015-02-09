@@ -1,0 +1,128 @@
+C:\Users\Tom\Documents\Visual Studio 2013\Projects\IW5_proj1\IW5_proj1_GUI\bin\Debug\IW5_proj1_GUI.exe.config
+C:\Users\Tom\Documents\Visual Studio 2013\Projects\IW5_proj1\IW5_proj1_GUI\obj\Debug\IW5_proj1_GUI.csprojResolveAssemblyReference.cache
+C:\Users\Tom\Documents\Visual Studio 2013\Projects\IW5_proj1\IW5_proj1_GUI\obj\Debug\App.g.cs
+C:\Users\Tom\Documents\Visual Studio 2013\Projects\IW5_proj1\IW5_proj1_GUI\obj\Debug\IW5_proj1_GUI_MarkupCompile.cache
+C:\Users\Tom\Documents\Visual Studio 2013\Projects\IW5_proj1\IW5_proj1_GUI\obj\Debug\IW5_proj1_GUI.g.resources
+C:\Users\Tom\Documents\Visual Studio 2013\Projects\IW5_proj1\IW5_proj1_GUI\obj\Debug\IW5_proj1_GUI.Properties.Resources.resources
+C:\Users\Tom\Documents\Visual Studio 2013\Projects\IW5_proj1\IW5_proj1_GUI\obj\Debug\IW5_proj1_GUI.csproj.GenerateResource.Cache
+C:\Users\Tom\Documents\Visual Studio 2013\Projects\IW5_proj1\IW5_proj1_GUI\bin\Debug\IW5_proj1_GUI.exe
+C:\Users\Tom\Documents\Visual Studio 2013\Projects\IW5_proj1\IW5_proj1_GUI\bin\Debug\IW5_proj1_GUI.pdb
+C:\Users\Tom\Documents\Visual Studio 2013\Projects\IW5_proj1\IW5_proj1_GUI\bin\Debug\IW5_proj1.exe
+C:\Users\Tom\Documents\Visual Studio 2013\Projects\IW5_proj1\IW5_proj1_GUI\bin\Debug\IW5_proj1.pdb
+C:\Users\Tom\Documents\Visual Studio 2013\Projects\IW5_proj1\IW5_proj1_GUI\obj\Debug\IW5_proj1_GUI.exe
+C:\Users\Tom\Documents\Visual Studio 2013\Projects\IW5_proj1\IW5_proj1_GUI\obj\Debug\IW5_proj1_GUI.pdb
+C:\Users\Tom\Documents\Visual Studio 2013\Projects\IW5_proj1\IW5_proj1_GUI\obj\Debug\MainWindow.baml
+C:\Users\Tom\Documents\Visual Studio 2013\Projects\IW5_proj1\IW5_proj1_GUI\obj\Debug\MainWindow.g.cs
+C:\Users\Tom\Desktop\IW5_2\IW5_proj1_GUI\bin\Debug\customers.mdf
+C:\Users\Tom\Desktop\IW5_2\IW5_proj1_GUI\bin\Debug\customers_log.ldf
+C:\Users\Tom\Desktop\IW5_2\IW5_proj1_GUI\bin\Debug\IW5_proj1_GUI.exe.config
+C:\Users\Tom\Desktop\IW5_2\IW5_proj1_GUI\bin\Debug\IW5_proj1_GUI.exe
+C:\Users\Tom\Desktop\IW5_2\IW5_proj1_GUI\bin\Debug\IW5_proj1_GUI.pdb
+C:\Users\Tom\Desktop\IW5_2\IW5_proj1_GUI\bin\Debug\EntityFramework.dll
+C:\Users\Tom\Desktop\IW5_2\IW5_proj1_GUI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Tom\Desktop\IW5_2\IW5_proj1_GUI\bin\Debug\IW5_proj1.exe
+C:\Users\Tom\Desktop\IW5_2\IW5_proj1_GUI\bin\Debug\IW5_proj1.pdb
+C:\Users\Tom\Desktop\IW5_2\IW5_proj1_GUI\bin\Debug\EntityFramework.xml
+C:\Users\Tom\Desktop\IW5_2\IW5_proj1_GUI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Tom\Desktop\IW5_2\IW5_proj1_GUI\obj\Debug\IW5_proj1_GUI.csprojResolveAssemblyReference.cache
+C:\Users\Tom\Desktop\IW5_2\IW5_proj1_GUI\obj\Debug\EditContact.baml
+C:\Users\Tom\Desktop\IW5_2\IW5_proj1_GUI\obj\Debug\EditCustomer.baml
+C:\Users\Tom\Desktop\IW5_2\IW5_proj1_GUI\obj\Debug\MainWindow.baml
+C:\Users\Tom\Desktop\IW5_2\IW5_proj1_GUI\obj\Debug\NewContact.baml
+C:\Users\Tom\Desktop\IW5_2\IW5_proj1_GUI\obj\Debug\NewCustomerWindow.baml
+C:\Users\Tom\Desktop\IW5_2\IW5_proj1_GUI\obj\Debug\EditContact.g.cs
+C:\Users\Tom\Desktop\IW5_2\IW5_proj1_GUI\obj\Debug\EditCustomer.g.cs
+C:\Users\Tom\Desktop\IW5_2\IW5_proj1_GUI\obj\Debug\MainWindow.g.cs
+C:\Users\Tom\Desktop\IW5_2\IW5_proj1_GUI\obj\Debug\NewContact.g.cs
+C:\Users\Tom\Desktop\IW5_2\IW5_proj1_GUI\obj\Debug\NewCustomerWindow.g.cs
+C:\Users\Tom\Desktop\IW5_2\IW5_proj1_GUI\obj\Debug\App.g.cs
+C:\Users\Tom\Desktop\IW5_2\IW5_proj1_GUI\obj\Debug\IW5_proj1_GUI_MarkupCompile.cache
+C:\Users\Tom\Desktop\IW5_2\IW5_proj1_GUI\obj\Debug\IW5_proj1_GUI.g.resources
+C:\Users\Tom\Desktop\IW5_2\IW5_proj1_GUI\obj\Debug\IW5_proj1_GUI.Properties.Resources.resources
+C:\Users\Tom\Desktop\IW5_2\IW5_proj1_GUI\obj\Debug\IW5_proj1_GUI.csproj.GenerateResource.Cache
+C:\Users\Tom\Desktop\IW5_2\IW5_proj1_GUI\obj\Debug\IW5_proj1_GUI.exe
+C:\Users\Tom\Desktop\IW5_2\IW5_proj1_GUI\obj\Debug\IW5_proj1_GUI.pdb
+H:\IW5_2\IW5_proj1_GUI\bin\Debug\IW5_proj1_GUI.exe.config
+H:\IW5_2\IW5_proj1_GUI\obj\Debug\IW5_proj1_GUI.exe
+H:\IW5_2\IW5_proj1_GUI\obj\Debug\IW5_proj1_GUI.pdb
+H:\IW5_2\IW5_proj1_GUI\bin\Debug\customers.mdf
+H:\IW5_2\IW5_proj1_GUI\bin\Debug\IW5_proj1_GUI.exe
+H:\IW5_2\IW5_proj1_GUI\bin\Debug\IW5_proj1_GUI.pdb
+H:\IW5_2\IW5_proj1_GUI\bin\Debug\EntityFramework.dll
+H:\IW5_2\IW5_proj1_GUI\bin\Debug\EntityFramework.SqlServer.dll
+H:\IW5_2\IW5_proj1_GUI\bin\Debug\IW5_proj1.exe
+H:\IW5_2\IW5_proj1_GUI\bin\Debug\IW5_proj1.pdb
+H:\IW5_2\IW5_proj1_GUI\bin\Debug\EntityFramework.xml
+H:\IW5_2\IW5_proj1_GUI\bin\Debug\EntityFramework.SqlServer.xml
+H:\IW5_2\IW5_proj1_GUI\obj\Debug\IW5_proj1_GUI.csprojResolveAssemblyReference.cache
+H:\IW5_2\IW5_proj1_GUI\obj\Debug\EditContact.baml
+H:\IW5_2\IW5_proj1_GUI\obj\Debug\EditCustomer.baml
+H:\IW5_2\IW5_proj1_GUI\obj\Debug\MainWindow.baml
+H:\IW5_2\IW5_proj1_GUI\obj\Debug\NewContact.baml
+H:\IW5_2\IW5_proj1_GUI\obj\Debug\NewCustomerWindow.baml
+H:\IW5_2\IW5_proj1_GUI\obj\Debug\EditContact.g.cs
+H:\IW5_2\IW5_proj1_GUI\obj\Debug\EditCustomer.g.cs
+H:\IW5_2\IW5_proj1_GUI\obj\Debug\MainWindow.g.cs
+H:\IW5_2\IW5_proj1_GUI\obj\Debug\NewContact.g.cs
+H:\IW5_2\IW5_proj1_GUI\obj\Debug\NewCustomerWindow.g.cs
+H:\IW5_2\IW5_proj1_GUI\obj\Debug\App.g.cs
+H:\IW5_2\IW5_proj1_GUI\obj\Debug\IW5_proj1_GUI_MarkupCompile.cache
+H:\IW5_2\IW5_proj1_GUI\obj\Debug\IW5_proj1_GUI.g.resources
+H:\IW5_2\IW5_proj1_GUI\obj\Debug\IW5_proj1_GUI.Properties.Resources.resources
+H:\IW5_2\IW5_proj1_GUI\obj\Debug\IW5_proj1_GUI.csproj.GenerateResource.Cache
+E:\IW5_2\IW5_proj1_GUI\bin\Debug\IW5_proj1_GUI.exe.config
+E:\IW5_2\IW5_proj1_GUI\obj\Debug\IW5_proj1_GUI.exe
+E:\IW5_2\IW5_proj1_GUI\obj\Debug\IW5_proj1_GUI.pdb
+E:\IW5_2\IW5_proj1_GUI\bin\Debug\customers.mdf
+E:\IW5_2\IW5_proj1_GUI\bin\Debug\IW5_proj1_GUI.exe
+E:\IW5_2\IW5_proj1_GUI\bin\Debug\IW5_proj1_GUI.pdb
+E:\IW5_2\IW5_proj1_GUI\bin\Debug\EntityFramework.dll
+E:\IW5_2\IW5_proj1_GUI\bin\Debug\EntityFramework.SqlServer.dll
+E:\IW5_2\IW5_proj1_GUI\bin\Debug\IW5_proj1.exe
+E:\IW5_2\IW5_proj1_GUI\bin\Debug\IW5_proj1.pdb
+E:\IW5_2\IW5_proj1_GUI\bin\Debug\EntityFramework.xml
+E:\IW5_2\IW5_proj1_GUI\bin\Debug\EntityFramework.SqlServer.xml
+E:\IW5_2\IW5_proj1_GUI\obj\Debug\IW5_proj1_GUI.csprojResolveAssemblyReference.cache
+E:\IW5_2\IW5_proj1_GUI\obj\Debug\EditContact.baml
+E:\IW5_2\IW5_proj1_GUI\obj\Debug\EditCustomer.baml
+E:\IW5_2\IW5_proj1_GUI\obj\Debug\MainWindow.baml
+E:\IW5_2\IW5_proj1_GUI\obj\Debug\NewContact.baml
+E:\IW5_2\IW5_proj1_GUI\obj\Debug\NewCustomerWindow.baml
+E:\IW5_2\IW5_proj1_GUI\obj\Debug\EditContact.g.cs
+E:\IW5_2\IW5_proj1_GUI\obj\Debug\EditCustomer.g.cs
+E:\IW5_2\IW5_proj1_GUI\obj\Debug\MainWindow.g.cs
+E:\IW5_2\IW5_proj1_GUI\obj\Debug\NewContact.g.cs
+E:\IW5_2\IW5_proj1_GUI\obj\Debug\NewCustomerWindow.g.cs
+E:\IW5_2\IW5_proj1_GUI\obj\Debug\App.g.cs
+E:\IW5_2\IW5_proj1_GUI\obj\Debug\IW5_proj1_GUI_MarkupCompile.cache
+E:\IW5_2\IW5_proj1_GUI\obj\Debug\IW5_proj1_GUI.g.resources
+E:\IW5_2\IW5_proj1_GUI\obj\Debug\IW5_proj1_GUI.Properties.Resources.resources
+E:\IW5_2\IW5_proj1_GUI\obj\Debug\IW5_proj1_GUI.csproj.GenerateResource.Cache
+C:\Users\Tom\Documents\Visual Studio 2013\Projects\IW5_2\IW5_proj1_GUI\bin\Debug\customers.mdf
+C:\Users\Tom\Documents\Visual Studio 2013\Projects\IW5_2\IW5_proj1_GUI\bin\Debug\IW5_proj1_GUI.exe.config
+C:\Users\Tom\Documents\Visual Studio 2013\Projects\IW5_2\IW5_proj1_GUI\bin\Debug\IW5_proj1_GUI.exe
+C:\Users\Tom\Documents\Visual Studio 2013\Projects\IW5_2\IW5_proj1_GUI\bin\Debug\IW5_proj1_GUI.pdb
+C:\Users\Tom\Documents\Visual Studio 2013\Projects\IW5_2\IW5_proj1_GUI\bin\Debug\EntityFramework.dll
+C:\Users\Tom\Documents\Visual Studio 2013\Projects\IW5_2\IW5_proj1_GUI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Tom\Documents\Visual Studio 2013\Projects\IW5_2\IW5_proj1_GUI\bin\Debug\IW5_proj1.exe
+C:\Users\Tom\Documents\Visual Studio 2013\Projects\IW5_2\IW5_proj1_GUI\bin\Debug\IW5_proj1.pdb
+C:\Users\Tom\Documents\Visual Studio 2013\Projects\IW5_2\IW5_proj1_GUI\bin\Debug\EntityFramework.xml
+C:\Users\Tom\Documents\Visual Studio 2013\Projects\IW5_2\IW5_proj1_GUI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Tom\Documents\Visual Studio 2013\Projects\IW5_2\IW5_proj1_GUI\obj\Debug\IW5_proj1_GUI.csprojResolveAssemblyReference.cache
+C:\Users\Tom\Documents\Visual Studio 2013\Projects\IW5_2\IW5_proj1_GUI\obj\Debug\EditContact.baml
+C:\Users\Tom\Documents\Visual Studio 2013\Projects\IW5_2\IW5_proj1_GUI\obj\Debug\EditCustomer.baml
+C:\Users\Tom\Documents\Visual Studio 2013\Projects\IW5_2\IW5_proj1_GUI\obj\Debug\MainWindow.baml
+C:\Users\Tom\Documents\Visual Studio 2013\Projects\IW5_2\IW5_proj1_GUI\obj\Debug\NewContact.baml
+C:\Users\Tom\Documents\Visual Studio 2013\Projects\IW5_2\IW5_proj1_GUI\obj\Debug\NewCustomerWindow.baml
+C:\Users\Tom\Documents\Visual Studio 2013\Projects\IW5_2\IW5_proj1_GUI\obj\Debug\EditContact.g.cs
+C:\Users\Tom\Documents\Visual Studio 2013\Projects\IW5_2\IW5_proj1_GUI\obj\Debug\EditCustomer.g.cs
+C:\Users\Tom\Documents\Visual Studio 2013\Projects\IW5_2\IW5_proj1_GUI\obj\Debug\MainWindow.g.cs
+C:\Users\Tom\Documents\Visual Studio 2013\Projects\IW5_2\IW5_proj1_GUI\obj\Debug\NewContact.g.cs
+C:\Users\Tom\Documents\Visual Studio 2013\Projects\IW5_2\IW5_proj1_GUI\obj\Debug\NewCustomerWindow.g.cs
+C:\Users\Tom\Documents\Visual Studio 2013\Projects\IW5_2\IW5_proj1_GUI\obj\Debug\App.g.cs
+C:\Users\Tom\Documents\Visual Studio 2013\Projects\IW5_2\IW5_proj1_GUI\obj\Debug\IW5_proj1_GUI_MarkupCompile.cache
+C:\Users\Tom\Documents\Visual Studio 2013\Projects\IW5_2\IW5_proj1_GUI\obj\Debug\IW5_proj1_GUI.g.resources
+C:\Users\Tom\Documents\Visual Studio 2013\Projects\IW5_2\IW5_proj1_GUI\obj\Debug\IW5_proj1_GUI.Properties.Resources.resources
+C:\Users\Tom\Documents\Visual Studio 2013\Projects\IW5_2\IW5_proj1_GUI\obj\Debug\IW5_proj1_GUI.csproj.GenerateResource.Cache
+C:\Users\Tom\Documents\Visual Studio 2013\Projects\IW5_2\IW5_proj1_GUI\obj\Debug\IW5_proj1_GUI.exe
+C:\Users\Tom\Documents\Visual Studio 2013\Projects\IW5_2\IW5_proj1_GUI\obj\Debug\IW5_proj1_GUI.pdb
